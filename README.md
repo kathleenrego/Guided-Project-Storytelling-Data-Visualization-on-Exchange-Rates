@@ -6,6 +6,13 @@
 The data visualization was made using storyteller to see the changes of rate over the years.
 We also used Gestalt Principles and Pre-Attentive Attributes to improve our graphs and used the FiveThirdyEight style on matplotlib.
 
+#### Results
+
+![Financial Crisis](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/financial_crisis.png)
+![Euro USD Rate](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/euro-usd-rate.png)
+![USD BRL Rate](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/usd-brl-rate.png)
+![Pylint Result](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/pylint.jpg)
+
 ### Used tools
 *   [Google Colab](https://colab.research.google.com/);
 *   [Spyder IDE](https://www.spyder-ide.org/);
