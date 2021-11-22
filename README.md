@@ -7,11 +7,10 @@ The data visualization was made using storyteller to see the changes of rate ove
 We also used Gestalt Principles and Pre-Attentive Attributes to improve our graphs and used the FiveThirdyEight style on matplotlib.
 
 #### Results
-
-![Financial Crisis](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/financial_crisis.png)
-![Euro USD Rate](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/euro-usd-rate.png)
-![USD BRL Rate](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/usd-brl-rate.png)
-![Pylint Result](https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/pylint.jpg)
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/financial_crisis.png" width="700">
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/euro-usd-rate.png" width="700">
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/usd-brl-rate.png" width="700">
+<img src="https://github.com/pedrohfonseca/Guided-Project-Storytelling-Data-Visualization-on-Exchange-Rates/blob/main/images/pylint.jpg" width="700">
 
 ### Used tools
 *   [Google Colab](https://colab.research.google.com/);
